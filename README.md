@@ -1,5 +1,5 @@
 # checklist-items-find
-Find items by value or description into your list, without postback. The method also can use into Dropdown Asp Net element. See the exemple below shows an button on onclick event using the method to find items into a check list component.
+Find items by value and description into your list, without postback. The method also can use into Dropdown Asp Net element. See the exemple below shows an button on onclick event using the method to find items into a check list component.
 
 ```javascript
 
